@@ -8,4 +8,4 @@ Itachi is the older brother of Sasuke Uchiha and is responsible for killing all 
 * older brother of Sasuke
 * part of organization Akatsuki
 
-
+I got the informtations form the internet.
