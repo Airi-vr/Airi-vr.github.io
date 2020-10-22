@@ -17,4 +17,3 @@ All infomations given are from the internet.
 
 
 <img src="https://assets.cdn.moviepilot.de/files/1ce275d720693907e843c63fc435ace11222ad1205c10dd6bfd473ad2345/fill/992/477/thor.jpg">
-
