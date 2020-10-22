@@ -1,11 +1,15 @@
-## Itachi
+# Thor
 
-### Describtion
 
-Itachi is the older brother of Sasuke Uchiha and is responsible for killing all the members of their clan, sparing only his younger brother Sasuke. He appears working as a terrorist from the organization Akatsuki and serves as Sasuke's greatest enemy. During the second part of the manga, Itachi becomes involved in terrorist attacks to ninjas possessing tailed-beast creatures until facing Sasuke in a one-on-one battle. Although Itachi perishes during the final duel, it is later revealed Itachi had a secret reason for assassinating the Uchiha clan.
+#### Describtion
 
-* Naruto character
-* older brother of Sasuke
-* part of organization Akatsuki
+Thor Odinson is a fictional superhero appearing in American comic books published by Marvel Comics. The character, which is based on the Norse deity of the same name, is the Asgardian god of thunder who possesses the enchanted hammer, Mjolnir, which grants him the ability to fly and manipulate weather amongst his other superhuman attributes.
 
-I got the informtations form the internet.
+* Odins Son
+* God of thunder
+* Marvel comic superhero
+
+#### The Movies:
+The character was first portrayed in live action by Eric Allan Kramer in the 1988 television movie The Incredible Hulk Returns. Chris Hemsworth portrays Thor Odinson in the Marvel Cinematic Universe films Thor (2011), The Avengers (2012), Thor: The Dark World (2013), Avengers: Age of Ultron (2015), Doctor Strange (2016) in a cameo, Thor: Ragnarok (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019) and will return in Thor: Love and Thunder (2022).
+
+All infomations given are from the internet
